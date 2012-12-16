@@ -10,9 +10,9 @@ fields & values to be included within a set of parenthesis for a where clause
 
 Details
 -------
-Tested on: CodeIgniter 2.1.3
-License: MIT (see LICENSE.md)
-Copyright: 2012, Andrew Podner
+* Tested on: CodeIgniter 2.1.3
+* License: MIT (see LICENSE.md)
+* Copyright: 2012, Andrew Podner
 
 
 Installation:
