@@ -46,7 +46,7 @@ Example:
 
 $arrClause = array(
     array('fieldName1', 'value1'),
-    array('fieldName2 >', 'value2', 'OR'),
+    array('fieldName2 >', 'value2', 'OR')
 );
 
 $this->db->from('pages');
